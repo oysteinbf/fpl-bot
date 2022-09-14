@@ -87,6 +87,16 @@ Suggested transfers (note: using only formation 1-4-4-2):
           Haaland           MCI      FWD      11.9               25.3
 ```
 
+### Database schema
+
+Stage:
+
+<img src="img/ER_diagram_stg.png" alt="ER_stage"/>
+
+Main:
+
+<img src="img/ER_diagram_main.png" alt="ER_main"/>
+
 ### Future work
 Get more data/features from somewhere.
 Improve the prediction algorithm (though it will nevertheless be hard to obtain decent predictions).
